@@ -1,7 +1,7 @@
 class Solution {
-    public int gcdOfOddEvenSums(int n) {
+    public int gcdOfOddEvenSums(int p) {
 
-        return n;
+        return p;
         
 
     }
